@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "133321630478",
+    "firebase_url": "https://marido-de-aluguel-fc714.firebaseio.com",
+    "project_id": "marido-de-aluguel-fc714",
+    "storage_bucket": "marido-de-aluguel-fc714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133321630478:android:164f8979d0d1cd77",
+        "android_client_info": {
+          "package_name": "br.com.tonim.maridodealuguel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133321630478-pkv49e00plso75f268c70s75upn7c4fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.tonim.maridodealuguel",
+            "certificate_hash": "08770855ee59f26cf68eb140c5ffe46221f317cc"
+          }
+        },
+        {
+          "client_id": "133321630478-c5qakvcjrsgcvh2223q3aqinmkbliicu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc1j1mtjJNUZCsdNZU7czZRhgmJRfSjmo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133321630478-c5qakvcjrsgcvh2223q3aqinmkbliicu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133321630478:android:7d8af483cc33d8c3",
+        "android_client_info": {
+          "package_name": "whatsapp.cursoandroid.com.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133321630478-32bmjq4j6u49u0fs2h94aaqt7uv6751u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "whatsapp.cursoandroid.com.whatsapp",
+            "certificate_hash": "08770855ee59f26cf68eb140c5ffe46221f317cc"
+          }
+        },
+        {
+          "client_id": "133321630478-c5qakvcjrsgcvh2223q3aqinmkbliicu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc1j1mtjJNUZCsdNZU7czZRhgmJRfSjmo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133321630478-c5qakvcjrsgcvh2223q3aqinmkbliicu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
